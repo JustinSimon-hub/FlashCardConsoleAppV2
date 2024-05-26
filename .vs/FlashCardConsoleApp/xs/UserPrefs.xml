@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{33D92424-A3DA-4B0F-92E5-621AF90B6E82}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/FlashCardLinkedList.cs">
+    <Files>
+      <File FileName="Models/FlashCardLinkedList.cs" Line="37" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="Models/FlashCard.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlashCardConsoleApp">
+            <Node name="FlashCardConsoleApp" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlashCardConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
